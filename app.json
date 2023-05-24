@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a454b9fc-72b0-4172-afd8-f48087175cd3"
+      }
+    },
+    "owner": "nhl007"
   }
 }
